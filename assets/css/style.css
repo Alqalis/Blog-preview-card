@@ -35,7 +35,7 @@ body
     width: 650px;
     margin-top: 1.5rem;
     padding: 1rem 2rem 5rem 2rem;
-    box-shadow: 5px 5px 15px 0 rgb(16, 17, 16);
+    box-shadow: 5px 5px 15px rgb(16, 17, 16);
 }
 figure
 {
